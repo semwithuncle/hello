@@ -1,2 +1,7 @@
-package hello.ma;public class Hello {
+package hello.ma;
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello mates!");
+    }
 }
